@@ -1,1 +1,3 @@
-# yrikka-btt-aistudio-2025
+# YRIKKA Break Through Tech Challenge 2025
+## Bridging the Synthetic to Real Data Gap
+
